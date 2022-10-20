@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    color: black;
+    margin: 0 auto;
+}
+title{
+    font-weight: bolder;
+    font-size: medium;
+}
+nav {
+    background-color: #6d9fd9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+    img{
+        height: 100px;
+            align-items: center;
+    }
+    .menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
